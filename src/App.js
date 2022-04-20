@@ -1,8 +1,13 @@
+import React from 'react'
+import { Forms } from './Form';
 
-function App() {
+
+function App()
+ {
   return (
     <>
-    <h1>poc2 Welcomes you all</h1>
+    <Forms/>
+
 
     </>
    
