@@ -1,5 +1,5 @@
 import {Container, Nav, Navbar} from "react-bootstrap"
-export const Menu=()=>
+export const Menus=()=>
 {
     return(
         <>
